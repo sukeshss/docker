@@ -16,4 +16,4 @@ EXPOSE 2181
 CMD ["--port 2181"]
 
 # Set default container command
-ENTRYPOINT /opt/zookeeper-3.4.5/bin/zkServer.sh start
+#ENTRYPOINT  
