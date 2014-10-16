@@ -4,7 +4,7 @@
 ############################################################
 
 # Set the base image to Ubuntu
-FROM sukeshss/zookeeper
+FROM sukeshss/zookeeper-3.4.5
 
 # File Author / Maintainer
 MAINTAINER Sukesh SS
